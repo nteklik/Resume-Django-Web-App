@@ -3,7 +3,7 @@
 ###########
 
 # pull official base image
-FROM python:3.9.1-slim as builder
+FROM python:3.9-slim as builder
 
 # set environment variables
 ARG REPO_PATH
@@ -34,7 +34,7 @@ RUN pip wheel --no-cache-dir --no-deps --wheel-dir /tmp/wheels -r /tmp/requireme
 #########
 
 # pull official base image
-FROM python:3.9.1-slim
+FROM python:3.9-slim
 
 # create the app user
 RUN addgroup app && useradd app -g app
