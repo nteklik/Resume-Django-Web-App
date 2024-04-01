@@ -35,7 +35,7 @@ Markdown==3.4.3
 MarkupPy==1.14
 odfpy==1.4.1
 openpyxl==3.0.9
-Pillow==9.0.1
+Pillow==10.3.0
 prompt-toolkit==3.0.36
 psycopg2==2.9.3
 python-crontab==2.7.0
