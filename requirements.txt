@@ -27,7 +27,7 @@ django-timezone-field==5.0
 djangorestframework==3.14.0
 et-xmlfile==1.1.0
 gunicorn==20.1.0
-idna==3.3
+idna==3.7
 importlib-metadata==6.6.0
 jmespath==0.10.0
 kombu==5.2.4
