@@ -49,7 +49,7 @@ six==1.16.0
 sqlparse==0.4.2
 # tablib==3.4.0
 tzdata==2022.7
-urllib3==1.26.8
+urllib3==1.26.19
 vine==5.0.0
 wcwidth==0.2.5
 xlrd==2.0.1
