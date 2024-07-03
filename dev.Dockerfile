@@ -1,5 +1,5 @@
 # pull official base image
-FROM python:3.9.1-slim
+FROM python:3.13.0b2-slim
 
 # set environment variables
 ARG REPO_PATH
