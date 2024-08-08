@@ -9,7 +9,7 @@ click-plugins==1.1.1
 click-repl==0.2.0
 colorama==0.4.5
 Deprecated==1.2.13
-Django==4.0.7
+Django==4.2.15
 django-celery-beat==2.3.0
 django-timezone-field==5.0
 kombu==5.2.4
